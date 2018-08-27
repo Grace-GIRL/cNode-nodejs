@@ -1,0 +1,26 @@
+{
+  "name": "cNode-nodejs",
+  "version": "1.0.0",
+  "description": "一个基于nodejs+express+mySQL 开发的多人社区",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grace-GIRL/cNode-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grace-GIRL/cNode-nodejs/issues"
+  },
+  "homepage": "https://github.com/Grace-GIRL/cNode-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
