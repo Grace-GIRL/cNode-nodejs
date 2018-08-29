@@ -52,4 +52,5 @@ Error: Cannot find module 'express'
 
 
 知识点：
-https://gitmoji.carloscuesta.me 上传github页面显示的标记  just for fun 开源项目很多都用
+1.https://gitmoji.carloscuesta.me 上传github页面显示的标记  just for fun 开源项目很多都用
+2.记住必要的域名 登录github进入相应的账号  github.com/Grace-GIRL
